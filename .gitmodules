@@ -1,0 +1,9 @@
+[submodule "Parking-Alert"]
+	path = Parking-Alert
+	url = https://github.com/WillDener/Parking-Alert.git
+[submodule "parkingbot-nodejs"]
+	path = parkingbot-nodejs
+	url = https://github.com/Elfocus/parkingbot-nodejs.git
+[submodule "parking-alert"]
+	path = parking-alert
+	url = https://github.com/augustodossantosti/parking-alert.git
