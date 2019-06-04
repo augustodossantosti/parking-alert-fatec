@@ -1,7 +1,9 @@
 # parking-alert-fatec
 
 Curso: Banco de Dados, 4º Semestre, 2019
+
 Disciplina: Padrões de Projeto
+
 Alunos: Francilei Augusto, Willian Dener, Mateus Luz
 
 Projeto para detecção de vagas disponiveis em um estacionamento através da integração de 3 sistemas.
