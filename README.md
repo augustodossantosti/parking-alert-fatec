@@ -13,7 +13,7 @@ Projeto para detecção de vagas disponiveis em um estacionamento através da in
 Clonando o projeto:
 
     git clone <endereço-deste-repositorio>
-    cd cd parking-alert-fatec/
+    cd parking-alert-fatec/
     git submodule init
     git submodule update
    
