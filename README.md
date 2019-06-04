@@ -20,6 +20,9 @@ Clonando o projeto:
 Atualizar este repositorio com a ultima versão dos módulos:
 
     git submodule foreach git pull origin master
+    git add .
+    git commit -m '<mensagem>'
+    git push
 
 # parking-alert
 
