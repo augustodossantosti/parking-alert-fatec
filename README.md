@@ -10,6 +10,17 @@ Projeto para detecção de vagas disponiveis em um estacionamento através da in
 
 ![](https://github.com/Elfocus/parkingbot-nodejs/blob/master/ParkingGo.jpg)
 
+Clonando o projeto:
+
+    git clone <endereço-deste-repositorio>
+    cd cd parking-alert-fatec/
+    git submodule init
+    git submodule update
+   
+Atualizar este repositorio com a ultima versão dos módulos:
+
+    git submodule foreach git pull origin master
+
 # parking-alert
 
 Projeto responsável por analisar uma gravação em vídeo e identificar, via visão computacional e machine learning, vagas disponíveis em um estacionamento.
